@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Máscara Capilar",
+      "description": "Na Forever Liss você encontra Máscara Capilar Hidratante, Máscara Desmaia Cabelo e muito mais. Confira!",
+      "url": "http://www.dynamicrrs.com.br"
+    },
+    
+    {
+      "id": 2,
+      "title": "Shampoo",
+      "description": "Compre Shampoo Matizador, shampoo para cabelos oleosos e quebradiços. Encontre produtos profissionais!",
+      "url": "http://www.dynamicrrs.com.br"
+    },
+    
+    {
+      "id": 3,
+      "title": "Condicionador",
+      "description": "Confira nossa linha incrível de Creme Condicionador Profissional para todos os tipos de cabelos. Compre online!",
+      "url": "http://www.dynamicrrs.com.br"
+    },
+
+    {
+      "id": 4,
+      "title": "Leave-in",
+      "description": "Conheça nossa linha incrível Leave-in Banho de Verniz, Leave-in Home Care, Leave-in Mealiza e muito mais. Aproveite!",
+      "url": "http://www.dynamicrrs.com.br"
+    }
+  ],
+  
+  "productInfo":
+    { 
+      "total":4,
+      "limit":10,
+      "page":1,
+      "pages":2
+    }
+  
+  
+}
